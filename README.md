@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/FZ-Logo.png" alt="Logo" width="80" height="80">
   </a>
 </p>
 
